@@ -1,0 +1,19 @@
+p{
+    color:red;
+    
+    margin : 18px;
+}
+.header-container{
+display: flex;
+flex-direction:row;
+margin : 18px;
+border: 10px;
+
+
+
+}
+.box{
+    padding : 10px;
+
+    
+}

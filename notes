@@ -1,0 +1,19 @@
+
+header 
+nav 
+foot bar
+
+
+css 
+element
+class(.) ( used in multiple cases) 
+id(#) (only for one specific thing)
+
+flex to give flexibility to the div
+flex-direction used for row cloumn cloumn reverse
+justify content 
+box model (
+    you are going to the art gallery 
+     you have paintings and they are in a box
+     
+)
